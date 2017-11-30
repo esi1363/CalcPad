@@ -14,6 +14,7 @@ namespace Calcpad
     {
         public Form1()
         {
+            public string helloGithub="Hello GitHub World!";
             InitializeComponent();
         }
     }
